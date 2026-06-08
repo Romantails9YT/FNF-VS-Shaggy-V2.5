@@ -1,14 +1,12 @@
 {
 	"songs": [
-		["big-shot", "shaggy"]
+		["Where Are You", "shaggy"],
+		["Eruption", "shaggy"],
+		["Kaio-Ken", "shaggy-6k"]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"weekCharacters": ["dad", "bf", "gf"],
 	"weekBackground": "stage",
-	"storyName": "BIG SHOT",
-	"weekName": "Week 1",
+	"storyName": "Chapter 1: Shaggy",
+	"weekName": "Chapter 1",
 	"startUnlocked": true
 }
