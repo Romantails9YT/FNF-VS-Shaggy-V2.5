@@ -1,1 +1,14 @@
-{"name":null,"assets":"aoy4:pathy37:assets%2Fweek1%2Fweek1_stuff_here.txty4:sizezy4:typey4:TEXTy2:idR1y7:preloadtgh","rootPath":"../","version":2,"libraryArgs":[],"libraryType":null}
+{
+	"songs": [
+		["big-shot", "shaggy"]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "BIG SHOT",
+	"weekName": "Week 1",
+	"startUnlocked": true
+}
